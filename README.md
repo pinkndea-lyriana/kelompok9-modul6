@@ -1,6 +1,6 @@
-# kelompok9-modul6
+# Kelompok 9 – Modul 6
 
-## Nama Tim Anggota
+## Anggota
 - Pinkan Dea Sastri Yuliana (Repo Maintainer)
 - La Ode Nauval Aqiilah Tsaqif (PRD: Scope & User Flow)
 - La Ode Nauval Aqiilah Tsaqif (PRD: Tech & Components)
